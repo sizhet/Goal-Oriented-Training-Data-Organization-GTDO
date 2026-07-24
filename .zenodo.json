@@ -1,0 +1,42 @@
+{
+  "title": "Structural Runtime AI (SRAI): From Structural Intelligence to Persistent Runtime Intelligence",
+  "publication_date": "2026-07-23",
+  "version": "v1.0.0",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "Structural Runtime AI (SRAI) presents a runtime-centered framework for Artificial Intelligence. Rather than viewing intelligence as a static trained model, SRAI proposes that intelligence should be understood as a persistent runtime organization composed of Runtime Invariants, Runtime Assets, Runtime Organizations, Runtime Triggers, and Local Runtime Learning. The repository develops this perspective through six progressively connected parts. The first four parts establish the core runtime architecture. Part V positions Structural Runtime AI within the broader landscape of contemporary Artificial Intelligence. Part VI provides a Grand Synthesis that introduces Runtime Representation Theory and the AI Unified Computational Field, connecting SRAI with Function Tunnel & Runtime Invariant Algebra (FTRIA) through a shared runtime-centric theoretical framework.",
+  "creators": [
+    {
+      "name": "Tan, Sizhe",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "OpenAI ChatGPT",
+      "affiliation": "OpenAI"
+    }
+  ],
+  "keywords": [
+    "Artificial Intelligence",
+    "Structural Runtime AI",
+    "Runtime Intelligence",
+    "Structural Intelligence",
+    "Runtime Invariants",
+    "Runtime Algebra",
+    "Runtime Organization",
+    "Runtime Trigger",
+    "Runtime Learning",
+    "Runtime Migration",
+    "Persistent Runtime Intelligence",
+    "Runtime-Native AI",
+    "Structural Recognition",
+    "Collective Learning",
+    "Cognitive Runtime",
+    "Hybrid AI",
+    "Minimal Evolution Threshold",
+    "Runtime Learning Ecology"
+  ],
+  "license": "Apache-2.0",
+  "language": "eng",
+  "access_right": "open"
+}
+
