@@ -1,42 +1,42 @@
 {
-  "title": "Structural Runtime AI (SRAI): From Structural Intelligence to Persistent Runtime Intelligence",
-  "publication_date": "2026-07-23",
-  "version": "v1.0.0",
+  "title": "Goal-Oriented Training Data Organization (GTDO): From Training Data Organization to Runtime Computational Organization",
   "upload_type": "publication",
   "publication_type": "report",
-  "description": "Structural Runtime AI (SRAI) presents a runtime-centered framework for Artificial Intelligence. Rather than viewing intelligence as a static trained model, SRAI proposes that intelligence should be understood as a persistent runtime organization composed of Runtime Invariants, Runtime Assets, Runtime Organizations, Runtime Triggers, and Local Runtime Learning. The repository develops this perspective through six progressively connected parts. The first four parts establish the core runtime architecture. Part V positions Structural Runtime AI within the broader landscape of contemporary Artificial Intelligence. Part VI provides a Grand Synthesis that introduces Runtime Representation Theory and the AI Unified Computational Field, connecting SRAI with Function Tunnel & Runtime Invariant Algebra (FTRIA) through a shared runtime-centric theoretical framework.",
+
+  "description": "Goal-Oriented Training Data Organization (GTDO) proposes a structural approach to AI computation in which training data are organized according to future computational goals rather than statistical similarity alone. GTDO transforms training data organization into computational organization through Goal Functions, Brain Units, Dispatch Trees, Calling Graphs, Call Paths, localized Runtime optimization, and Structural Security Infrastructure. The repository establishes an organizational foundation for trustworthy Runtime AI and complements the broader Structural Runtime AI ecosystem, including SRAI, FTRIA, RI, SRMS, and Information Job Shop (IJS).",
+
   "creators": [
     {
-      "name": "Tan, Sizhe",
-      "affiliation": "Independent Researcher"
-    },
-    {
-      "name": "OpenAI ChatGPT",
-      "affiliation": "OpenAI"
+      "name": "Tan, Sizhe"
     }
   ],
+
   "keywords": [
     "Artificial Intelligence",
+    "Runtime AI",
     "Structural Runtime AI",
-    "Runtime Intelligence",
-    "Structural Intelligence",
-    "Runtime Invariants",
-    "Runtime Algebra",
-    "Runtime Organization",
-    "Runtime Trigger",
-    "Runtime Learning",
-    "Runtime Migration",
-    "Persistent Runtime Intelligence",
-    "Runtime-Native AI",
-    "Structural Recognition",
-    "Collective Learning",
-    "Cognitive Runtime",
+    "Goal-Oriented Training Data Organization",
+    "GTDO",
+    "Brain Units",
+    "Computational Organization",
+    "Goal Functions",
+    "Dispatch Trees",
+    "Dispatch Graphs",
+    "Calling Graph",
+    "Call Path",
     "Hybrid AI",
-    "Minimal Evolution Threshold",
-    "Runtime Learning Ecology"
+    "Runtime Optimization",
+    "Structural Security Infrastructure",
+    "Trustworthy AI",
+    "Runtime Organization",
+    "Structural Computing"
   ],
+
   "license": "Apache-2.0",
+
   "language": "eng",
-  "access_right": "open"
+
+  "version": "1.0.0"
 }
+
 
