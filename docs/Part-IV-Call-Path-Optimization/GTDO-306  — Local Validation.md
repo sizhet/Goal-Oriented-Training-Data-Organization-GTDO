@@ -18,6 +18,12 @@ Validation therefore becomes incremental, modular, continuous, and organizationa
 
 ---
 
+#### Fig-112-Local-Learning-and-Adaptation.png
+
+![Fig-112-Local-Learning-and-Adaptation.png](../figures/Fig-112-Local-Learning-and-Adaptation.png)
+
+---
+
 # Beyond Global Validation
 
 Traditional AI development often follows the sequence:

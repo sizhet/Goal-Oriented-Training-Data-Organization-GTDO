@@ -18,6 +18,12 @@ Rollback therefore becomes localized, explainable, low-risk, and organizationall
 
 ---
 
+#### Fig-112-Local-Learning-and-Adaptation.png
+
+![Fig-112-Local-Learning-and-Adaptation.png](../figures/Fig-112-Local-Learning-and-Adaptation.png)
+
+---
+
 # Beyond Global Rollback
 
 Traditional rollback assumes a relatively monolithic software system.

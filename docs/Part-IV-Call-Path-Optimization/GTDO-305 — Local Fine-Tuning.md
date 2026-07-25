@@ -18,6 +18,12 @@ Learning therefore becomes localized, modular, explainable, and continuously dep
 
 ---
 
+#### Fig-112-Local-Learning-and-Adaptation.png
+
+![Fig-112-Local-Learning-and-Adaptation.png](../figures/Fig-112-Local-Learning-and-Adaptation.png)
+
+---
+
 # Beyond Global Fine-Tuning
 
 Conventional fine-tuning generally assumes that a single model represents the primary computational asset.

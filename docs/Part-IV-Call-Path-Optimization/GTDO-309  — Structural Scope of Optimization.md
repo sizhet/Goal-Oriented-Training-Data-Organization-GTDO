@@ -22,6 +22,12 @@ Optimization therefore becomes a structural engineering problem rather than mere
 
 ---
 
+### Fig-111-Optimization-Structural-Scope.png
+
+![Fig-111-Optimization-Structural-Scope.png](../figures/Fig-111-Optimization-Structural-Scope.png)
+
+---
+
 # The Optimization Problem
 
 Every observed deficiency originates somewhere within the computational organization.

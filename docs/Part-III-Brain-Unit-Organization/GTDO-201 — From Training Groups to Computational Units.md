@@ -66,6 +66,12 @@ This article defines the group-to-unit transition, explains its validation and e
 
 ---
 
+#### Fig-113-Data-and-Knowledge-Flow.png
+
+![Fig-113-Data-and-Knowledge-Flow.png](../figures/Fig-113-Data-and-Knowledge-Flow.png)
+
+---
+
 # 1. Why Grouping Is Not the Final Result
 
 A GTDO grouping algorithm may produce:

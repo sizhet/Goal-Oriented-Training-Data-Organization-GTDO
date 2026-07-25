@@ -18,6 +18,12 @@ Version management therefore becomes modular, incremental, traceable, and organi
 
 ---
 
+#### Fig-112-Local-Learning-and-Adaptation.png
+
+![Fig-112-Local-Learning-and-Adaptation.png](../figures/Fig-112-Local-Learning-and-Adaptation.png)
+
+---
+
 # Beyond Global Versioning
 
 Traditional software systems often follow a simple version sequence:

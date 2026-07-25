@@ -30,6 +30,12 @@ Rather than viewing AI as a single intelligent model, GTDO views intelligence as
 
 ---
 
+#### Fig-113-Data-and-Knowledge-Flow.png
+
+![Fig-113-Data-and-Knowledge-Flow.png](../figures/Fig-113-Data-and-Knowledge-Flow.png)
+
+---
+
 # Beyond Individual Models
 
 For many years, AI development focused primarily on improving individual models.

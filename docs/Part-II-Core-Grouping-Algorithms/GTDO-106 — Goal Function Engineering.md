@@ -10,6 +10,12 @@ Rather than viewing goals merely as optimization targets, GTDO treats them as or
 
 ---
 
+#### Fig-113-Data-and-Knowledge-Flow.png
+
+![Fig-113-Data-and-Knowledge-Flow.png](../figures/Fig-113-Data-and-Knowledge-Flow.png)
+
+---
+
 # From Optimization to Organization
 
 Most machine learning systems define a goal as an optimization function.

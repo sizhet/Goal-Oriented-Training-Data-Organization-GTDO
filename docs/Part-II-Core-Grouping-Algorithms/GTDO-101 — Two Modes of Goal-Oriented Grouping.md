@@ -29,6 +29,12 @@ This article defines both modes, compares their assumptions and outputs, explain
 
 ---
 
+#### Fig-113-Data-and-Knowledge-Flow.png
+
+![Fig-113-Data-and-Knowledge-Flow.png](../figures/Fig-113-Data-and-Knowledge-Flow.png)
+
+---
+
 # 1. Why GTDO Requires Two Grouping Modes
 
 Training data can contain two fundamentally different forms of organizational structure.
