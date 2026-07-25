@@ -709,14 +709,6 @@ Citation metadata are also provided in:
 
 ---
 
-# License
-
-Please refer to the repository license for terms of use.
-
-Academic citation is appreciated whenever GTDO contributes to published research, engineering practice, or educational materials.
-
----
-
 # Acknowledgements
 
 GTDO is part of an ongoing exploration of Structural Runtime AI.
