@@ -26,6 +26,12 @@ This article develops the concept of RHS-driven organization, distinguishes Goal
 
 ---
 
+#### Fig-101-GTDO-Structural-Overview.png
+
+![Fig-101-GTDO-Structural-Overview.png](../figures/Fig-101-GTDO-Structural-Overview.png)
+
+---
+
 # 1. Why GTDO Begins with a Goal
 
 A dataset can be divided in many different ways.

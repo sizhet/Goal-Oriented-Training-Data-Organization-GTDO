@@ -18,6 +18,12 @@ Goal-Oriented Training Data Organization (GTDO) proposes that training-data orga
 
 ---
 
+#### Fig-101-GTDO-Structural-Overview.png
+
+![Fig-101-GTDO-Structural-Overview.png](../figures/Fig-101-GTDO-Structural-Overview.png)
+
+---
+
 # 1. Motivation
 
 Current AI training pipelines usually follow a structure similar to:

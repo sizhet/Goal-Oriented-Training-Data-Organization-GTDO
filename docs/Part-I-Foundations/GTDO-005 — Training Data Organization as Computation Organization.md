@@ -22,6 +22,12 @@ This article develops that proposition, explains how Goal Functions convert evid
 
 ---
 
+#### Fig-101-GTDO-Structural-Overview.png
+
+![Fig-101-GTDO-Structural-Overview.png](../figures/Fig-101-GTDO-Structural-Overview.png)
+
+---
+
 # 1. The Conventional Separation
 
 A conventional AI engineering workflow often treats data preparation and model architecture as separate activities.

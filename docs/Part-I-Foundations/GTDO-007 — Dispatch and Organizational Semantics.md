@@ -42,6 +42,12 @@ This article develops the organizational semantics of dispatch. It explains why 
 
 ---
 
+#### Fig-101-GTDO-Structural-Overview.png
+
+![Fig-101-GTDO-Structural-Overview.png](../figures/Fig-101-GTDO-Structural-Overview.png)
+
+---
+
 # 1. Why Dispatch Requires Semantics
 
 A system may route data successfully while still assigning the wrong computational responsibility.

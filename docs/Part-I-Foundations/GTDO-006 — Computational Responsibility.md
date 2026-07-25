@@ -42,6 +42,12 @@ This article defines Computational Responsibility, distinguishes it from labels,
 
 ---
 
+#### Fig-101-GTDO-Structural-Overview.png
+
+![Fig-101-GTDO-Structural-Overview.png](../figures/Fig-101-GTDO-Structural-Overview.png)
+
+---
+
 # 1. Why Responsibility Must Be Explicit
 
 Many AI systems contain powerful computational structures.

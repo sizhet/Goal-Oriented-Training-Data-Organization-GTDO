@@ -50,6 +50,12 @@ This article defines the role of context in GTDO, distinguishes context from dat
 
 ---
 
+#### Fig-101-GTDO-Structural-Overview.png
+
+![Fig-101-GTDO-Structural-Overview.png](../figures/Fig-101-GTDO-Structural-Overview.png)
+
+---
+
 # 1. The Limits of Isolated Samples
 
 A simplified training relation may be written as:

@@ -24,6 +24,12 @@ This article develops that distinction, explains why Point-to-Group Assignment c
 
 ---
 
+#### Fig-101-GTDO-Structural-Overview.png
+
+![Fig-101-GTDO-Structural-Overview.png](../figures/Fig-101-GTDO-Structural-Overview.png)
+
+---
+
 # 1. The Source of the Confusion
 
 Segmentation and dispatch frequently appear in the same workflow.

@@ -34,6 +34,12 @@ This article explains why GTDO must move beyond segmentation and why dispatch sh
 
 ---
 
+#### Fig-101-GTDO-Structural-Overview.png
+
+![Fig-101-GTDO-Structural-Overview.png](../figures/Fig-101-GTDO-Structural-Overview.png)
+
+---
+
 # 1. The Familiar Segmentation View
 
 Many computational systems begin by dividing data into smaller regions.
