@@ -12,6 +12,10 @@ GTDO is therefore not a complete security framework. Rather, it is the structura
 
 ---
 
+![Fig-114-Structural-Organization-as-the-Foundation-of-Trustworthy-AI-Runtime.png](../figures/Fig-114-Structural-Organization-as-the-Foundation-of-Trustworthy-AI-Runtime.png)
+
+---
+
 # 1. Security Begins with Organization
 
 Throughout the history of computing, security has rarely been achieved by making every component perfectly intelligent.
