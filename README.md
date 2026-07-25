@@ -668,6 +668,14 @@ Structural organization enables:
 
 # Repository Highlights
 
+---
+
+#### Fig-004-From-Dispatch-Tree-to-Calling-Graph-and-Call-Paths.png
+
+![Fig-004-From-Dispatch-Tree-to-Calling-Graph-and-Call-Paths.png](./docs/figures/Fig-004-From-Dispatch-Tree-to-Calling-Graph-and-Call-Paths.png)
+
+---
+
 This repository introduces several organizational concepts that distinguish GTDO from conventional training methodologies.
 
 Highlights include:
