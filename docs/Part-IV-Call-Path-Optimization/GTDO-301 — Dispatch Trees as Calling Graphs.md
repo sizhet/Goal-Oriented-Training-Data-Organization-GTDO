@@ -4,6 +4,12 @@
 
 ---
 
+#### Fig-040-Part-IV-Integrated-GTDO-Ecosystem.png
+
+![Fig-040-Part-IV-Integrated-GTDO-Ecosystem.png](../figures/Fig-040-Part-IV-Integrated-GTDO-Ecosystem.png)
+
+---
+
 ## Abstract
 
 A Dispatch Tree is commonly interpreted as a hierarchical routing structure.

@@ -4,6 +4,12 @@
 
 ---
 
+#### Fig-010-Part-I-Structural-Foundatiobs-of-GTDO.png
+
+![Fig-010-Part-I-Structural-Foundatiobs-of-GTDO.png](../figures/Fig-010-Part-I-Structural-Foundatiobs-of-GTDO.png)
+
+---
+
 ## Abstract
 
 Modern AI systems are typically trained using enormous collections of data that undergo cleaning, tokenization, sampling, and optimization before being presented to a learning algorithm. This pipeline has enabled remarkable progress, particularly for large language models (LLMs). Nevertheless, the overwhelming majority of current training workflows still treat the training corpus as a largely unified computational object.

@@ -4,6 +4,12 @@
 
 ---
 
+#### Fig-020-Part-II-Runtime-Execution-Architecture.png
+
+![Fig-020-Part-II-Runtime-Execution-Architecture.png](../figures/Fig-020-Part-II-Runtime-Execution-Architecture.png)
+
+---
+
 ## Abstract
 
 Goal-Oriented Training Data Organization requires more than one grouping mechanism.

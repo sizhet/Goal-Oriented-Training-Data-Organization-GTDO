@@ -4,6 +4,12 @@
 
 ---
 
+#### Fig-030-Part-III-Organizational-Learning-&-Optimization.png
+
+![Fig-030-Part-III-Organizational-Learning-&-Optimization.png](../figures/Fig-030-Part-III-Organizational-Learning-&-Optimization.png)
+
+---
+
 ## Abstract
 
 Goal-Oriented Training Data Organization does not end when training data has been divided into groups, blocks, Boundary Sets, or fallback collections.
