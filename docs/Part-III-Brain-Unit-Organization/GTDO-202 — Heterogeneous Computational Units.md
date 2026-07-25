@@ -12,6 +12,12 @@ Hybrid AI therefore becomes an organization of heterogeneous Computational Units
 
 ---
 
+#### Fig-102-Hybrid-Computational-Organization.png
+
+![Fig-102-Hybrid-Computational-Organization.png](../figures/Fig-102-Hybrid-Computational-Organization.png)
+
+---
+
 # From Homogeneous Models to Heterogeneous Organizations
 
 Early AI systems were relatively homogeneous.

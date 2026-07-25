@@ -12,6 +12,12 @@ Call Path Segments therefore become the modular building blocks of future runtim
 
 ---
 
+#### Fig-103-Runtime-Execution-Flow.png
+
+![Fig-103-Runtime-Execution-Flow.png](../figures/Fig-103-Runtime-Execution-Flow.png)
+
+---
+
 # Why Segment Call Paths?
 
 Large computational workflows often involve hundreds or thousands of execution steps.

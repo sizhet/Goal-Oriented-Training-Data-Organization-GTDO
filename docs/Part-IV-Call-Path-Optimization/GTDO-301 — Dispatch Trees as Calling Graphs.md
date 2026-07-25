@@ -42,6 +42,12 @@ This article defines the relationship among Dispatch Trees, Calling Graphs, Call
 
 ---
 
+#### Fig-103-Runtime-Execution-Flow.png
+
+![Fig-103-Runtime-Execution-Flow.png](../figures/Fig-103-Runtime-Execution-Flow.png)
+
+---
+
 # 1. The Central Observation
 
 Consider a Dispatch Tree of Computational Units:

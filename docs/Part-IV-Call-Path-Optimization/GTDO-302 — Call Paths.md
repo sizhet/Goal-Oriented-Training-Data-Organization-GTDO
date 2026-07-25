@@ -36,6 +36,12 @@ Consequently, GTDO regards the Call Path—not the isolated model—as the prima
 
 ---
 
+#### Fig-103-Runtime-Execution-Flow.png
+
+![Fig-103-Runtime-Execution-Flow.png](../figures/Fig-103-Runtime-Execution-Flow.png)
+
+---
+
 # 1. Motivation
 
 Suppose a user asks:

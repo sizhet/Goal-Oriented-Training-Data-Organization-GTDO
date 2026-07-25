@@ -12,6 +12,12 @@ Rather than viewing AI as a single intelligent model, GTDO views intelligence as
 
 ---
 
+#### Fig-102-Hybrid-Computational-Organization.png
+
+![Fig-102-Hybrid-Computational-Organization.png](../figures/Fig-102-Hybrid-Computational-Organization.png)
+
+---
+
 # Beyond Individual Models
 
 For many years, AI development focused primarily on improving individual models.

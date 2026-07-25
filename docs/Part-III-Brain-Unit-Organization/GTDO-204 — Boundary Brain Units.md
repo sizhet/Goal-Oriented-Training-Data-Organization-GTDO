@@ -12,6 +12,12 @@ Boundary Brain Units therefore become essential organizational components for sc
 
 ---
 
+#### Fig-102-Hybrid-Computational-Organization.png
+
+![Fig-102-Hybrid-Computational-Organization.png](../figures/Fig-102-Hybrid-Computational-Organization.png)
+
+---
+
 # Why Boundaries Matter
 
 As specialization increases, Brain Units naturally develop different:

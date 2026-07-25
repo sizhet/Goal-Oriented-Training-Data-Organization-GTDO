@@ -60,6 +60,12 @@ This article defines the group-to-unit transition, explains its validation and e
 
 ---
 
+#### Fig-102-Hybrid-Computational-Organization.png
+
+![Fig-102-Hybrid-Computational-Organization.png](../figures/Fig-102-Hybrid-Computational-Organization.png)
+
+---
+
 # 1. Why Grouping Is Not the Final Result
 
 A GTDO grouping algorithm may produce:
