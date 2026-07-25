@@ -2,16 +2,18 @@
 
 ## From Training Data Organization to Runtime Computational Organization
 
+---
+
+#### Fig-000-GTDO-Overview.png
+![Fig-000-GTDO-Overview.png](./docs/figures/Fig-000-GTDO-Overview.png)
+
+---
+
 **Goal-Oriented Training Data Organization (GTDO)** proposes a structural approach to AI computation in which training data are organized according to future computational goals rather than statistical similarity alone.
 
 Instead of viewing datasets as passive collections of samples, GTDO treats them as the organizational foundation of future Runtime AI systems. Training groups become computational units, computational units become Brain Units, and Brain Units cooperate through dispatch, calling graphs, and localized Runtime optimization.
 
 GTDO therefore extends the role of training data from model preparation to computational organization.
-
----
-
-#### Fig-000-GTDO-Overview.png
-![Fig-000-GTDO-Overview.png](./docs/figures/Fig-000-GTDO-Overview.png)
 
 ---
 
@@ -32,6 +34,13 @@ Together these components establish an organizational foundation for future Runt
 ---
 
 ## Why GTDO?
+
+---
+
+#### Fig-001-From-Segmentation-to-Computation-Organization.png
+![Fig-001-From-Segmentation-to-Computation-Organization.png](./docs/figures/Fig-001-From-Segmentation-to-Computation-Organization.png)
+
+---
 
 Current AI systems primarily organize training data according to statistical similarity.
 
@@ -60,11 +69,6 @@ Training organization becomes computation organization.
 
 ---
 
-#### Fig-001-From-Segmentation-to-Computation-Organization.png
-![Fig-001-From-Segmentation-to-Computation-Organization.png](./docs/figures/Fig-001-From-Segmentation-to-Computation-Organization.png)
-
----
-
 # Core Philosophy
 
 GTDO is founded upon a simple principle:
@@ -86,13 +90,6 @@ Localized optimization enables trustworthy Runtime AI.
 ---
 
 # Contributions
-
----
-
-#### Fig-002-GTDO-in-the-Hybrid-AI-Stack.png
-![Fig-002-GTDO-in-the-Hybrid-AI-Stack.png](./docs/figures/Fig-002-GTDO-in-the-Hybrid-AI-Stack.png)
-
----
 
 GTDO introduces several structural concepts for Runtime AI.
 
@@ -268,18 +265,18 @@ A complete figure list is available in
 
 # Repository Structure
 
-GTDO is organized as four progressively connected Parts.
-
-Each Part answers a different layer of the same fundamental question:
-
-> **How should future AI computation be organized?**
-
 ---
 
 #### Fig-003-GTDO-End-to-End-Architecture.png
 ![Fig-003-GTDO-End-to-End-Architecture.png](./docs/figures/Fig-003-GTDO-End-to-End-Architecture.png)
 
 ---
+
+GTDO is organized as four progressively connected Parts.
+
+Each Part answers a different layer of the same fundamental question:
+
+> **How should future AI computation be organized?**
 
 # Part I — Foundations
 
@@ -552,6 +549,13 @@ GTDO-310
 
 # Relationship to Other Repositories
 
+---
+
+#### Fig-002-GTDO-in-the-Hybrid-AI-Stack.png
+![Fig-002-GTDO-in-the-Hybrid-AI-Stack.png](./docs/figures/Fig-002-GTDO-in-the-Hybrid-AI-Stack.png)
+
+---
+
 GTDO complements several repositories within the Structural Runtime AI research ecosystem.
 
 | Repository | Primary Focus |
@@ -567,6 +571,13 @@ Together these repositories describe complementary layers of future Runtime AI s
 ---
 
 # Future Directions
+
+---
+
+#### Fig-005-GTDO-Call-Path-and-Local-Optimization.png
+![Fig-005-GTDO-Call-Path-and-Local-Optimization.png](./docs/figures/Fig-005-GTDO-Call-Path-and-Local-Optimization.png)
+
+---
 
 GTDO establishes an organizational perspective for Runtime AI.
 
