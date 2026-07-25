@@ -9,6 +9,9 @@ Instead of viewing datasets as passive collections of samples, GTDO treats them 
 GTDO therefore extends the role of training data from model preparation to computational organization.
 
 ---
+#### Fig-000-GTDO-Overview.png
+![Fig-000-GTDO-Overview.png](./docs/figures/Fig-000-GTDO-Overview.png)
+---
 
 ## Repository Overview
 
@@ -54,6 +57,9 @@ This seemingly small shift changes the role of training data throughout the enti
 Training organization becomes computation organization.
 
 ---
+#### Fig-001-From-Segmentation-to-Computation-Organization.png
+![Fig-001-From-Segmentation-to-Computation-Organization.png](./docs/figures/Fig-001-From-Segmentation-to-Computation-Organization.png)
+---
 
 # Core Philosophy
 
@@ -76,6 +82,11 @@ Localized optimization enables trustworthy Runtime AI.
 ---
 
 # Contributions
+
+---
+#### Fig-002-GTDO-in-the-Hybrid-AI-Stack.png
+![Fig-002-GTDO-in-the-Hybrid-AI-Stack.png](./docs/figures/Fig-002-GTDO-in-the-Hybrid-AI-Stack.png)
+---
 
 GTDO introduces several structural concepts for Runtime AI.
 
@@ -257,6 +268,9 @@ Each Part answers a different layer of the same fundamental question:
 
 > **How should future AI computation be organized?**
 
+---
+#### Fig-002-GTDO-in-the-Hybrid-AI-Stack.png
+![Fig-002-GTDO-in-the-Hybrid-AI-Stack.png](./docs/figures/Fig-002-GTDO-in-the-Hybrid-AI-Stack.png)
 ---
 
 # Part I — Foundations
