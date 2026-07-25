@@ -12,6 +12,12 @@ Rollback therefore becomes localized, explainable, low-risk, and organizationall
 
 ---
 
+#### Fig-110-Continuous-Improvement-Lifecycle.png
+
+![Fig-110-Continuous-Improvement-Lifecycle.png](../figures/Fig-110-Continuous-Improvement-Lifecycle.png)
+
+---
+
 # Beyond Global Rollback
 
 Traditional rollback assumes a relatively monolithic software system.

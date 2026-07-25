@@ -12,6 +12,12 @@ Version management therefore becomes modular, incremental, traceable, and organi
 
 ---
 
+#### Fig-110-Continuous-Improvement-Lifecycle.png
+
+![Fig-110-Continuous-Improvement-Lifecycle.png](../figures/Fig-110-Continuous-Improvement-Lifecycle.png)
+
+---
+
 # Beyond Global Versioning
 
 Traditional software systems often follow a simple version sequence:

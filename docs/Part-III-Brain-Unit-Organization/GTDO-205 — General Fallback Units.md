@@ -12,6 +12,12 @@ General Fallback Units therefore serve as the resilience layer of Hybrid AI orga
 
 ---
 
+#### Fig-108-Organizational-Boundaries.png
+
+![Fig-108-Organizational-Boundaries.png](../figures/Fig-108-Organizational-Boundaries.png)
+
+---
+
 #### Fig-102-Hybrid-Computational-Organization.png
 
 ![Fig-102-Hybrid-Computational-Organization.png](../figures/Fig-102-Hybrid-Computational-Organization.png)

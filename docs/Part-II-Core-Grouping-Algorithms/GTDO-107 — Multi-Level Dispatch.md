@@ -10,6 +10,12 @@ Rather than viewing dispatch as a single routing operation, GTDO models it as a 
 
 ---
 
+#### Fig-105-Dispatch-Tree-Example.png
+
+![Fig-105-Dispatch-Tree-Example.png](../figures/Fig-105-Dispatch-Tree-Example.png)
+
+---
+
 # Why Single-Level Dispatch Is Insufficient
 
 Simple systems often dispatch directly from an input to an execution module.

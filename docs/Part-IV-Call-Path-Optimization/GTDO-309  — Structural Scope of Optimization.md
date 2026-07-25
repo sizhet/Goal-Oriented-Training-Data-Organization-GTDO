@@ -16,6 +16,12 @@ Optimization therefore becomes a structural engineering problem rather than mere
 
 ---
 
+#### Fig-110-Continuous-Improvement-Lifecycle.png
+
+![Fig-110-Continuous-Improvement-Lifecycle.png](../figures/Fig-110-Continuous-Improvement-Lifecycle.png)
+
+---
+
 # The Optimization Problem
 
 Every observed deficiency originates somewhere within the computational organization.

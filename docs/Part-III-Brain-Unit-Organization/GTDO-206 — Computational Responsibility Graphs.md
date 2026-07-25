@@ -16,6 +16,18 @@ This organizational perspective significantly improves explainability, maintaina
 
 ---
 
+#### Fig-104-Organizational-Relationships.png
+
+![Fig-104-Organizational-Relationships.png](../figures/Fig-104-Organizational-Relationships.png)
+
+---
+
+#### Fig-108-Organizational-Boundaries.png
+
+![Fig-108-Organizational-Boundaries.png](../figures/Fig-108-Organizational-Boundaries.png)
+
+---
+
 # Computation Versus Responsibility
 
 Execution and responsibility are related but fundamentally different.

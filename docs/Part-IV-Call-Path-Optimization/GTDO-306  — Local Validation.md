@@ -12,6 +12,12 @@ Validation therefore becomes incremental, modular, continuous, and organizationa
 
 ---
 
+#### Fig-110-Continuous-Improvement-Lifecycle.png
+
+![Fig-110-Continuous-Improvement-Lifecycle.png](../figures/Fig-110-Continuous-Improvement-Lifecycle.png)
+
+---
+
 # Beyond Global Validation
 
 Traditional AI development often follows the sequence:

@@ -12,6 +12,12 @@ Boundary Resolution therefore becomes one of the fundamental runtime mechanisms 
 
 ---
 
+#### Fig-108-Organizational-Boundaries.png
+
+![Fig-108-Organizational-Boundaries.png](../figures/Fig-108-Organizational-Boundaries.png)
+
+---
+
 # The Boundary Problem
 
 Every Computational Unit possesses a practical scope.

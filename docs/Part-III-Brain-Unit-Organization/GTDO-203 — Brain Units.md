@@ -18,6 +18,12 @@ Brain Units represent the next level of abstraction above ordinary Computational
 
 ---
 
+#### Fig-104-Organizational-Relationships.png
+
+![Fig-104-Organizational-Relationships.png](../figures/Fig-104-Organizational-Relationships.png)
+
+---
+
 # From Computational Units to Brain Units
 
 A Computational Unit typically performs one well-defined function.

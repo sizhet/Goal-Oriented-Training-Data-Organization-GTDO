@@ -12,6 +12,12 @@ Rather than describing isolated decision hierarchies, Dispatch Graphs model the 
 
 ---
 
+#### Fig-104-Organizational-Relationships.png
+
+![Fig-104-Organizational-Relationships.png](../figures/Fig-104-Organizational-Relationships.png)
+
+---
+
 # From Trees to Graphs
 
 Trees describe hierarchical decomposition.

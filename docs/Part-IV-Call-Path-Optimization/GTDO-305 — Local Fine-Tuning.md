@@ -12,6 +12,12 @@ Learning therefore becomes localized, modular, explainable, and continuously dep
 
 ---
 
+#### Fig-110-Continuous-Improvement-Lifecycle.png
+
+![Fig-110-Continuous-Improvement-Lifecycle.png](../figures/Fig-110-Continuous-Improvement-Lifecycle.png)
+
+---
+
 # Beyond Global Fine-Tuning
 
 Conventional fine-tuning generally assumes that a single model represents the primary computational asset.

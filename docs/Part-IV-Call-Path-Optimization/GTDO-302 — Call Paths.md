@@ -42,6 +42,18 @@ Consequently, GTDO regards the Call Path—not the isolated model—as the prima
 
 ---
 
+#### Fig-106-Call-Path-Segment-Structure.png
+
+![Fig-106-Call-Path-Segment-Structure.png](../figures/Fig-106-Call-Path-Segment-Structure.png)
+
+---
+
+#### Fig-107-Calling-Graph-vs-Call-Path.png
+
+![Fig-107-Calling-Graph-vs-Call-Path.png](../figures/Fig-107-Calling-Graph-vs-Call-Path.png)
+
+---
+
 # 1. Motivation
 
 Suppose a user asks:

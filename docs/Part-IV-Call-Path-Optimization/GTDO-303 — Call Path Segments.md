@@ -18,6 +18,18 @@ Call Path Segments therefore become the modular building blocks of future runtim
 
 ---
 
+#### Fig-106-Call-Path-Segment-Structure.png
+
+![Fig-106-Call-Path-Segment-Structure.png](../figures/Fig-106-Call-Path-Segment-Structure.png)
+
+---
+
+#### Fig-107-Calling-Graph-vs-Call-Path.png
+
+![Fig-107-Calling-Graph-vs-Call-Path.png](../figures/Fig-107-Calling-Graph-vs-Call-Path.png)
+
+---
+
 # Why Segment Call Paths?
 
 Large computational workflows often involve hundreds or thousands of execution steps.

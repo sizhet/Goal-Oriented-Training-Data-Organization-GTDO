@@ -12,9 +12,21 @@ Rather than viewing AI as a single intelligent model, GTDO views intelligence as
 
 ---
 
+#### Fig-104-Organizational-Relationships.png
+
+![Fig-104-Organizational-Relationships.png](../figures/Fig-104-Organizational-Relationships.png)
+
+---
+
 #### Fig-102-Hybrid-Computational-Organization.png
 
 ![Fig-102-Hybrid-Computational-Organization.png](../figures/Fig-102-Hybrid-Computational-Organization.png)
+
+---
+
+#### Fig-109-Hybrid-AI-Ecosystem.png
+
+![Fig-109-Hybrid-AI-Ecosystem.png](../figures/Fig-109-Hybrid-AI-Ecosystem.png)
 
 ---
 

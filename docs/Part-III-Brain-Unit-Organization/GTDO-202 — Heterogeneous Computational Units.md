@@ -12,6 +12,12 @@ Hybrid AI therefore becomes an organization of heterogeneous Computational Units
 
 ---
 
+#### Fig-104-Organizational-Relationships.png
+
+![Fig-104-Organizational-Relationships.png](../figures/Fig-104-Organizational-Relationships.png)
+
+---
+
 #### Fig-102-Hybrid-Computational-Organization.png
 
 ![Fig-102-Hybrid-Computational-Organization.png](../figures/Fig-102-Hybrid-Computational-Organization.png)

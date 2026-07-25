@@ -48,6 +48,12 @@ This article defines the relationship among Dispatch Trees, Calling Graphs, Call
 
 ---
 
+#### Fig-107-Calling-Graph-vs-Call-Path.png
+
+![Fig-107-Calling-Graph-vs-Call-Path.png](../figures/Fig-107-Calling-Graph-vs-Call-Path.png)
+
+---
+
 # 1. The Central Observation
 
 Consider a Dispatch Tree of Computational Units:

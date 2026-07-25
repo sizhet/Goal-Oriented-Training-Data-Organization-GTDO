@@ -16,6 +16,12 @@ Dispatch Trees therefore bridge the gap between high-level objectives and low-le
 
 ---
 
+#### Fig-105-Dispatch-Tree-Example.png
+
+![Fig-105-Dispatch-Tree-Example.png](../figures/Fig-105-Dispatch-Tree-Example.png)
+
+---
+
 # Why Dispatch Trees?
 
 Complex computational tasks rarely follow a single predetermined execution path.

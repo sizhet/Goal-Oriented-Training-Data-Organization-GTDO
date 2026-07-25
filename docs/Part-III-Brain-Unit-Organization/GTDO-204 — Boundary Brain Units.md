@@ -18,6 +18,18 @@ Boundary Brain Units therefore become essential organizational components for sc
 
 ---
 
+#### Fig-104-Organizational-Relationships.png
+
+![Fig-104-Organizational-Relationships.png](../figures/Fig-104-Organizational-Relationships.png)
+
+---
+
+#### Fig-108-Organizational-Boundaries.png
+
+![Fig-108-Organizational-Boundaries.png](../figures/Fig-108-Organizational-Boundaries.png)
+
+---
+
 # Why Boundaries Matter
 
 As specialization increases, Brain Units naturally develop different:

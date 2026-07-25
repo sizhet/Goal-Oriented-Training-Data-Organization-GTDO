@@ -44,6 +44,12 @@ CPRL therefore extends reinforcement learning from action optimization to organi
 
 ---
 
+#### Fig-110-Continuous-Improvement-Lifecycle.png
+
+![Fig-110-Continuous-Improvement-Lifecycle.png](../figures/Fig-110-Continuous-Improvement-Lifecycle.png)
+
+---
+
 # What Is Call-Path Reinforcement Learning?
 
 Call-Path Reinforcement Learning is a runtime learning mechanism that evaluates complete Call Paths according to their effectiveness in achieving organizational goals.
