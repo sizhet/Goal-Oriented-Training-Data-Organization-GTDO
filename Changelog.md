@@ -1,185 +1,267 @@
 # CHANGELOG
 
-All notable changes to this project will be documented in this file.
+All notable changes to this repository will be documented in this file.
 
-The format is inspired by **Keep a Changelog**, and this project follows **Semantic Versioning (SemVer)**.
-
----
-
-# [1.0.0] - 2026-07-23
-
-## 🎉 Foundational Research Release
-
-This is the first public release of the **Structural Runtime AI (SRAI)** framework.
-
-SRAI presents a unified structural perspective on intelligence, introducing Runtime as the central organizational layer that bridges structural representation, execution, adaptation, and evolution.
-
-Rather than proposing a single algorithm or model, SRAI establishes a coherent architectural framework connecting structural operators, runtime assets, runtime intelligence, and future AI systems.
+The format follows the principles of **Keep a Changelog**, adapted for research repositories.
 
 ---
 
-## Added
+# Version 1.0.0
 
-### Repository Architecture
+## Release Date
 
-* Initial repository structure
-* Multi-part documentation organization
-* Repository navigation files
-* Figure organization by topic
-* PDF export structure
+July 2026
 
 ---
 
-### Part I — Foundations
+# Initial Public Release
 
-Introduced the conceptual foundations of Structural Runtime AI, including:
+This release establishes the first complete version of **Goal-Oriented Training Data Organization (GTDO)**.
 
-* Structural Runtime AI overview
-* Runtime-centric AI paradigm
-* Runtime Intelligence Stack
-* Structural research methodology
-* Core principles and terminology
+GTDO proposes a structural approach to AI computation in which training data are organized according to future computational goals rather than statistical similarity alone.
+
+The repository develops this idea from conceptual foundations through computational grouping, Brain Unit organization, Runtime optimization, and the organizational foundations of trustworthy Runtime AI.
 
 ---
 
-### Part II — Structural Operators
+# Added
 
-Introduced the fundamental structural operators, including:
+## Part I — Foundations
 
-* Structural Difference Trees
-* Two-Phases Search
-* Universal Typing and Naming
-* Common Concept Core (CCC)
-* Runtime alignment concepts
-* Operator Economy
+Introduced the conceptual foundations of Goal-Oriented Training Data Organization.
 
----
+Included:
 
-### Part III — Structural Runtime
-
-Established the runtime layer of intelligent systems, including:
-
-* Calling Graphs
-* Gap Engineering
-* WHY Generation
-* Function Tunnel
-* Function Tunnel Networks
-* Runtime Invariants
-* Runtime Triggering
-* Runtime Organization
-* Runtime Capability Closure
-* Structural Asset Summary
+- GTDO-001 — Why Goal-Oriented Training Data Organization
+- GTDO-002 — From Data Segmentation to AI Computation Organization
+- GTDO-003 — Goal Functions and RHS-Driven Training Organization
+- GTDO-004 — Dispatch Is Not Segmentation
+- GTDO-005 — Training Data Organization as Computation Organization
+- GTDO-006 — Computational Responsibility
+- GTDO-007 — Dispatch and Organizational Semantics
+- GTDO-008 — Context as an Organizational Dimension
+- GTDO-009 — Boundary Sets
+- GTDO-010 — Summary of Foundations
 
 ---
 
-### Part IV — Runtime Intelligence
+## Part II — Core Grouping Algorithms
 
-Introduced Runtime Intelligence as an organizational architecture, including:
+Established the computational algorithms supporting goal-oriented organization.
 
-* Structural Cognitive Runtime
-* Runtime Invariant Algebra
-* Runtime Organization Algebra
-* Runtime Trigger Algebra
-* Runtime Migration
-* Local Runtime Learning
-* Three-Cat Reasoning
-* Runtime Intelligence Overview
+Included:
 
----
-
-### Part V — AI Landscape and Future Directions
-
-Added the first landscape-oriented perspective:
-
-* **LLM, World Models, and Structural Runtime AI**
-
-This document positions SRAI within the broader evolution of Artificial Intelligence and proposes Runtime Intelligence as a complementary direction alongside statistical learning and world modeling.
+- Two Modes of Goal-Oriented Grouping
+- Point-to-Group Assignment by Two-Way CCC
+- Variable-Size Block Grouping
+- Recursive Two-Way CCC
+- Boundary Resolution
+- Goal Function Engineering
+- Multi-Level Dispatch
+- Significance and Confidence
 
 ---
 
-### Part VI — Grand Synthesis
+## Part III — Brain Unit Organization
 
-Added the Grand Synthesis of Structural Runtime AI, including:
+Established computational organizations for Runtime AI.
 
-* Toward the AI Unified Computational Field
-* Runtime Representation Theory
-* The Runtime Representation Spectrum
-* Representation Evolution: From Scaling to Discovery
-* Exact Computation and Structurally Faithful Computation
-* Manifesto: From Scaling Representations to Discovering Runtime Objects
-* Hybrid AI: A Future Direction for Structural Runtime AI
+Introduced:
 
-Part VI connects Structural Runtime AI with broader Runtime Representation
-families, Runtime Objects, Function Tunnel and Runtime Invariant Algebra,
-and future Hybrid AI systems.
-
-The final Hybrid AI direction introduces a possible Runtime Learning Ecology
-in which LLMs, Differential Trees, CCC, Two-Way CCC, Two-Phases Search,
-runtime dispatch, and specialized Brain Units cooperate through continuous
-MET-driven evolution.
+- Computational Units
+- Heterogeneous Units
+- Brain Units
+- Boundary Brain Units
+- General Fallback Units
+- Computational Responsibility Graphs
+- Dispatch Trees
+- Dispatch Graphs
+- Hybrid Computational Organizations
 
 ---
 
-## Figures
+## Part IV — Call Path Optimization
 
-Created the initial illustration suite, including:
+Established Runtime execution and localized optimization.
 
-* Repository overview
-* Runtime-centric AI transition
-* Runtime Intelligence Stack
-* Part overview diagrams
-* Structural operator diagrams
-* Runtime organization diagrams
-* Runtime intelligence diagrams
-* AI landscape comparison
-* Grand Synthesis and Runtime Representation diagrams
-* Hybrid AI Runtime Learning Ecology
+Included:
+
+- Dispatch Trees as Calling Graphs
+- Call Paths
+- Call Path Segments
+- Call-Path Reinforcement Learning
+- Local Fine-Tuning
+- Local Validation
+- Local Versioning
+- Local Rollback
+- Structural Scope of Optimization
+
+Concluded with:
+
+- GTDO-310 — GTDO as the Structural Security Infrastructure for AI Runtime
+
+which establishes structural organization as the organizational foundation for trustworthy Runtime AI.
 
 ---
 
-## Documentation
+# Figures
+
+Added twenty-five repository figures covering:
+
+## Repository Overview
+
+- Fig-000
+- Fig-001
+- Fig-002
+- Fig-003
+- Fig-004
+- Fig-005
+
+---
+
+## Part Overview Figures
+
+- Fig-010
+- Fig-020
+- Fig-030
+- Fig-040
+
+---
+
+## Detailed Figures
+
+- Fig-101
+- Fig-102
+- Fig-103
+- Fig-104
+- Fig-105
+- Fig-106
+- Fig-107
+- Fig-108
+- Fig-109
+- Fig-110
+- Fig-111
+- Fig-112
+- Fig-113
+- Fig-114
+
+---
+
+# Repository Documentation
 
 Added:
 
-* README
-* START-HERE
-* ROADMAP
-* INDEX files for each Part
-* FIGURE-INDEX
-* Repository navigation structure
+- README.md
+- START-HERE.md
+- CONTENTS.md
+- FIGURE-INDEX.md
+- ROADMAP.md
+- CHANGELOG.md
+- CITATION.cff
+- .zenodo.json
 
 ---
 
-## Design Principles
+# Repository Contributions
 
-The first public release establishes several long-term design principles:
+Version 1.0.0 introduces several organizational concepts for future Runtime AI, including:
 
-* Runtime as a first-class research object
-* Structural representation above implementation details
-* Operator economy
-* Runtime invariants as reusable structural assets
-* Runtime organization as the basis of intelligence
-* Progressive evolution through structural integration
-* AI as an evolving runtime ecosystem
+- Goal-Oriented Training Organization
+- Computational Responsibility
+- Goal Function Engineering
+- Multi-Level Dispatch
+- Brain Units
+- Boundary Brain Units
+- Dispatch Trees
+- Dispatch Graphs
+- Calling Graphs
+- Call Paths
+- Local Runtime Learning
+- Structural Scope of Optimization
+- Structural Security Infrastructure
 
----
-
-## Vision
-
-Structural Runtime AI proposes that future intelligent systems may gradually evolve beyond isolated models toward reusable runtime organizations composed of structural assets, runtime operators, runtime invariants, and organizational intelligence.
-
-This release represents the initial foundation of that long-term research program.
-
-Rather than concluding the current research, this release establishes the conceptual foundation for future investigations into Runtime Objects, Runtime Representation Science, Runtime Algebra, and Runtime-native Computing.
+Together these concepts transform training data organization into Runtime computational organization.
 
 ---
 
-**Release:** v1.0.0
+# Relationship to the Structural Runtime AI Ecosystem
 
-**Status:** Initial Public Release
+GTDO complements several repositories within the broader Structural Runtime AI research program, including:
 
-**Project:** Structural Runtime AI (SRAI)
+- Structural Recognition above Metric Similarity (SRMS)
+- Runtime Invariant (RI)
+- Function Tunnel and Runtime Invariant Algebra (FTRIA)
+- Structural Runtime AI (SRAI)
+- Information Job Shop (IJS)
 
-**Maintainers:** Sizhe Tan & GPT-Obot
+Within this ecosystem, GTDO primarily contributes the organizational layer connecting training data, computational organizations, Runtime optimization, and trustworthy AI execution.
 
-**License:** Apache-2.0
+---
+
+# Version Summary
+
+Version 1.0.0 establishes the first complete public release of Goal-Oriented Training Data Organization.
+
+The repository demonstrates a progression from
+
+Training Data
+
+↓
+
+Goal Functions
+
+↓
+
+Computational Organization
+
+↓
+
+Brain Units
+
+↓
+
+Dispatch
+
+↓
+
+Calling Graphs
+
+↓
+
+Call Paths
+
+↓
+
+Local Runtime Learning
+
+↓
+
+Runtime Validation
+
+↓
+
+Structural Security Infrastructure
+
+↓
+
+Trustworthy Runtime AI
+
+and provides the organizational foundation for future research into Runtime computational organizations and trustworthy AI systems.
+
+---
+
+# Looking Forward
+
+Future work may explore:
+
+- Runtime Structural Interaction
+- Runtime Governance
+- Brain Unit collaboration
+- Hybrid AI engineering
+- Runtime Invariant validation
+- Organizational trust propagation
+- Collective Runtime Intelligence
+
+while preserving the central GTDO principle:
+
+> **Organize computation before optimization, and structurally organize Runtime AI before it can become trustworthy.**
