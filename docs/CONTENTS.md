@@ -32,6 +32,18 @@ The repository progressively develops GTDO from foundational concepts to Runtime
 
 ---
 
+## Quick Links
+
+- [Part I — Foundations](./Part-I-Foundations/README.md)
+
+- [Part II — Core Grouping Algorithms](./Part-II-Core-Grouping-Algorithms/README.md)
+
+- [Part III — Brain Unit Organization](./Part-III-Brain-Unit-Organization/README.md)
+
+- [Part IV — Call Path Optimization](./Part-IV-Call-Path-Optimization/README.md)
+
+---
+
 # Part I — Foundations
 
 **Structural principles behind Goal-Oriented Training Data Organization.**
