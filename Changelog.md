@@ -106,7 +106,7 @@ which establishes structural organization as the organizational foundation for t
 
 # Figures
 
-Added twenty-five repository figures covering:
+Added twenty-four repository figures covering:
 
 ## Repository Overview
 
