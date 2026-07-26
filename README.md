@@ -17,6 +17,19 @@ GTDO therefore extends the role of training data from model preparation to compu
 
 ---
 
+## Quick Navigation
+
+- [Start Here](./docs/START-HERE.md)
+- [Contents](./docs/CONTENTS.md)
+- [Figure Index](./docs/FIGURE-INDEX.md)
+- [Roadmap](./docs/ROADMAP.md)
+- [Part I — Foundations](./docs/Part-I-Foundations/README.md)
+- [Part II — Core Grouping Algorithms](./docs/Part-II-Core-Grouping-Algorithms/README.md)
+- [Part III — Brain Unit Organization](./docs/Part-III-Brain-Unit-Organization/README.md)
+- [Part IV — Call Path Optimization](./docs/Part-IV-Call-Path-Optimization/README.md)
+
+---
+
 ## Repository Overview
 
 This repository presents a unified framework that connects:
@@ -263,7 +276,7 @@ A complete figure list is available in
 
 ---
 
-# Repository Structure
+# Repository Knowledge Map
 
 ---
 
