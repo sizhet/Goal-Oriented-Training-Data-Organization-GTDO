@@ -21,7 +21,7 @@ Brain Units provide explicit computational responsibilities, organizational boun
 # Overview
 
 #### Fig-030-Part-III-Organizational-Learning-&-Optimization.png
-![Fig-030-Part-III-Organizational-Learning-&-Optimization.png](../figures/Fig-030-Part-III-Organizational-Learning-&-Optimization.png)
+![Fig-030-Part-III-Organizational-Learning-&-Optimization.png](../figures/Fig-030-Part-III-Organizational-Learning-and-Optimization.png)
 
 **Figure 030** summarizes the organizational architecture introduced in Part III.
 
