@@ -4,9 +4,9 @@
 
 ---
 
-#### Fig-030-Part-III-Organizational-Learning-and-Optimization.png
+#### Fig-030-Part-III-Brain-Unit-Organization.png
 
-![Fig-030-Part-III-Organizational-Learning-and-Optimization.png](../figures/Fig-030-Part-III-Organizational-Learning-and-Optimization.png)
+![Fig-030-Part-III-Brain-Unit-Organization.png](../figures/Fig-030-Part-III-Brain-Unit-Organization.png)
 
 ---
 

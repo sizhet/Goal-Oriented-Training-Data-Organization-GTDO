@@ -16,8 +16,8 @@ Grouping therefore becomes the first step toward Runtime computational organizat
 
 # Overview
 
-#### Fig-020-Part-II-Runtime-Execution-Architecture.png
-![Fig-020-Part-II-Runtime-Execution-Architecture.png](../figures/Fig-020-Part-II-Runtime-Execution-Architecture.png)
+#### Fig-020-Part-II-Core-Grouping-Algorithms.png
+![Fig-020-Part-II-Core-Grouping-Algorithms.png](../figures/Fig-020-Part-II-Core-Grouping-Algorithms.png)
 
 **Figure 020** summarizes the computational organization algorithms introduced in this Part.
 
