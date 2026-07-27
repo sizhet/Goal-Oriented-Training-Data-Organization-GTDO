@@ -17,6 +17,10 @@ version: "1.0.0"
 
 license: Apache-2.0
 
+date-released: 2026-07-26
+doi: 10.5281/zenodo.21614134
+
+
 abstract: >
   Goal-Oriented Training Data Organization (GTDO) introduces
   a structural approach to AI computation by organizing

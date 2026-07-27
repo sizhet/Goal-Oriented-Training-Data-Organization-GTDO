@@ -1,2 +1,27 @@
 
-TBD
+
+DOI
+
+10.5281/zenodo.21614134
+
+Markdown
+
+[![DOI](https://zenodo.org/badge/1311396523.svg)](https://doi.org/10.5281/zenodo.21614133)
+
+reStructuredText
+
+.. image:: https://zenodo.org/badge/1311396523.svg
+  :target: https://doi.org/10.5281/zenodo.21614133
+
+HTML
+
+<a href="https://doi.org/10.5281/zenodo.21614133"><img src="https://zenodo.org/badge/1311396523.svg" alt="DOI"></a>
+
+Image URL
+
+https://zenodo.org/badge/1311396523.svg
+
+Target URL
+
+https://doi.org/10.5281/zenodo.21614133
+
